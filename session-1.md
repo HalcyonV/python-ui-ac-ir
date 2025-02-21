@@ -1,4 +1,8 @@
 ---
+layout: default
+title: جزوه جلسه ۱
+---
+---
 <div dir="rtl">
 
 ### **۳. نمایش و خواندن فایل Markdown**
