@@ -1,6 +1,6 @@
 ---
-layout: default
-title: جزوه جلسه ۱
+layout: page
+title: "جزوه جلسه ۱"
 ---
 <div dir="rtl">
 
