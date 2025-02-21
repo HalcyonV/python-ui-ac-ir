@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: default
 title: "جزوه جلسه ۱"
+permalink: /session-1/
 ---
+
 <div dir="rtl">
 
 ### **۳. نمایش و خواندن فایل Markdown**
