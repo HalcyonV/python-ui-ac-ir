@@ -2,9 +2,12 @@
 layout: default
 title: "جزوه جلسه ۱"
 permalink: /session-1/
+markdown: kramdown
 ---
 
 <div dir="rtl">
+
+---
 
 ### **۳. نمایش و خواندن فایل Markdown**
 🔹 **روش سریع:**  
